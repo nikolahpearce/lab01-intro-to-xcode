@@ -45,6 +45,7 @@ let myString = "No TV and no beer make Homer something something"
 let emojiString = emojiate(str: myString);
 
 print(emojiString)
+   
 
 
 
